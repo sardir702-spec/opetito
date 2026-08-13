@@ -12,6 +12,14 @@ from aiogram.fsm.state import StatesGroup, State
 
 from config import BOT_TOKEN, ADMINS, ADMIN_PASSWORD, WEBAPP_URL
 from database import Database
+import os
+
+if os.environ.get('RAILWAY_PUBLIC_DOMAIN'):
+    WEBAPP_URL = f"https://{os.environ.get('RAILWAY_PUBLIC_DOMAIN')}"
+elif os.environ.get('RAILWAY_STATIC_URL'):
+    WEBAPP_URL = f"https://{os.environ.get('RAILWAY_STATIC_URL')}"
+elif os.environ.get('RENDER_EXTERNAL_URL'):
+    WEBAPP_URL = os.environ.get('RENDER_EXTERNAL_URL')
 
 
 logging.basicConfig(level=logging.INFO)
