@@ -41,8 +41,9 @@ time.sleep(1)
 if os.environ.get('RENDER_EXTERNAL_URL'):
     url = os.environ.get('RENDER_EXTERNAL_URL')
     print(f"[SERVER] Render serveri aniqlandi! URL: {url}")
-elif os.environ.get('RAILWAY_STATIC_URL'):
-    url = f"https://{os.environ.get('RAILWAY_STATIC_URL')}"
+elif os.environ.get('RAILWAY_STATIC_URL') or os.environ.get('RAILWAY_PUBLIC_DOMAIN'):
+    domain = os.environ.get('RAILWAY_PUBLIC_DOMAIN') or os.environ.get('RAILWAY_STATIC_URL')
+    url = f"https://{domain}"
     print(f"[SERVER] Railway serveri aniqlandi! URL: {url}")
 else:
     # Mahalliy server yoki VPS uchun Cloudflare Tunnel ishlatish

@@ -10,7 +10,7 @@ ADMIN_PASSWORD = "opetitto 34"
 ADMINS = [123456789] 
 
 # Telegram Web App uchun URL (Sizning yangi serveringiz)
-WEBAPP_URL = "https://opetito-production.up.railway.app/"
+WEBAPP_URL = "https://free-planes-worry.loca.lt"
 
 # Ma'lumotlar bazasi parametrlari
 DB_HOST = "localhost"
