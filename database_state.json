@@ -1,0 +1,648 @@
+{
+    "users": {
+        "8135353129": {
+            "id": 1,
+            "telegram_id": 8135353129,
+            "fullname": "Sobirjonov",
+            "phone": null,
+            "lang": "uz",
+            "registered_at": "2026-06-26 12:42"
+        },
+        "7752032178": {
+            "id": 2,
+            "telegram_id": 7752032178,
+            "fullname": "개발자👨🏻‍💻",
+            "phone": null,
+            "lang": "uz",
+            "registered_at": "2026-06-26 12:43"
+        },
+        "7032024055": {
+            "id": 3,
+            "telegram_id": 7032024055,
+            "fullname": "Coderixa",
+            "phone": null,
+            "lang": "en",
+            "registered_at": "2026-06-26 12:44"
+        }
+    },
+    "products": [
+        {
+            "id": 5,
+            "name": "nn",
+            "category": "osh",
+            "description": "uouoiuoiuo",
+            "price": 47,
+            "is_active": 1,
+            "emoji": "🍽",
+            "image": "images/AgACAgIAAxkBAAID42p9FPk5ZfaLnkL6HdKnstjoLHGZAAJBIGsbyy7pS7gO--zgRmagAQADAgADeQADPQQ.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Kasha",
+            "category": "🍲 Suyuq ovqatlar",
+            "description": "1n",
+            "price": 10000,
+            "is_active": 1,
+            "emoji": "🍲",
+            "image": "images/AgACAgIAAxkBAAIEPWp9IYEj_AvVzt7Ggd103RbIDCVkAAJeIGsbyy7pSxeik75f4f1UAQADAgADeQADPQQ.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Shir guruch",
+            "category": "🍲 Suyuq ovqatlar",
+            "description": "",
+            "price": 10000,
+            "is_active": 1,
+            "emoji": "🍲",
+            "image": ""
+        },
+        {
+            "id": 8,
+            "name": "Lag'mon",
+            "category": "🍲 Suyuq ovqatlar",
+            "description": "",
+            "price": 22000,
+            "is_active": 1,
+            "emoji": "🍜",
+            "image": ""
+        },
+        {
+            "id": 9,
+            "name": "Chuchvara",
+            "category": "🍲 Suyuq ovqatlar",
+            "description": "",
+            "price": 22000,
+            "is_active": 1,
+            "emoji": "🥟",
+            "image": ""
+        },
+        {
+            "id": 10,
+            "name": "Kuza",
+            "category": "🍲 Suyuq ovqatlar",
+            "description": "",
+            "price": 20000,
+            "is_active": 1,
+            "emoji": "🍲",
+            "image": ""
+        },
+        {
+            "id": 11,
+            "name": "Mastava",
+            "category": "🍲 Suyuq ovqatlar",
+            "description": "",
+            "price": 20000,
+            "is_active": 1,
+            "emoji": "🍲",
+            "image": ""
+        },
+        {
+            "id": 12,
+            "name": "Borsh",
+            "category": "🍲 Suyuq ovqatlar",
+            "description": "",
+            "price": 22000,
+            "is_active": 1,
+            "emoji": "🍲",
+            "image": ""
+        },
+        {
+            "id": 13,
+            "name": "Mol go'shtli sho'rva",
+            "category": "🍲 Suyuq ovqatlar",
+            "description": "",
+            "price": 23000,
+            "is_active": 1,
+            "emoji": "🍲",
+            "image": ""
+        },
+        {
+            "id": 14,
+            "name": "Dumba sho'rva",
+            "category": "🍲 Suyuq ovqatlar",
+            "description": "",
+            "price": 23000,
+            "is_active": 1,
+            "emoji": "🍲",
+            "image": ""
+        },
+        {
+            "id": 15,
+            "name": "Tovuq sho'rva",
+            "category": "🍲 Suyuq ovqatlar",
+            "description": "",
+            "price": 20000,
+            "is_active": 1,
+            "emoji": "🍲",
+            "image": ""
+        },
+        {
+            "id": 16,
+            "name": "Vaju",
+            "category": "🍲 Suyuq ovqatlar",
+            "description": "",
+            "price": 20000,
+            "is_active": 1,
+            "emoji": "🍲",
+            "image": ""
+        },
+        {
+            "id": 17,
+            "name": "Manti sho'rva",
+            "category": "🍲 Suyuq ovqatlar",
+            "description": "",
+            "price": 0,
+            "is_active": 1,
+            "emoji": "🥟",
+            "image": ""
+        },
+        {
+            "id": 18,
+            "name": "Perelovka",
+            "category": "🍲 Suyuq ovqatlar",
+            "description": "",
+            "price": 22000,
+            "is_active": 1,
+            "emoji": "🍲",
+            "image": ""
+        },
+        {
+            "id": 19,
+            "name": "Bifstroganov",
+            "category": "🥘 Quyuq ovqatlar",
+            "description": "",
+            "price": 45000,
+            "is_active": 1,
+            "emoji": "🥖",
+            "image": "images/AgACAgIAAxkBAAIEPWp9IYEj_AvVzt7Ggd103RbIDCVkAAJeIGsbyy7pSxeik75f4f1UAQADAgADeQADPQQ.jpg"
+        },
+        {
+            "id": 20,
+            "name": "Bifshteks",
+            "category": "🥘 Quyuq ovqatlar",
+            "description": "",
+            "price": 28000,
+            "is_active": 1,
+            "emoji": "🥩",
+            "image": ""
+        },
+        {
+            "id": 21,
+            "name": "Tovuq bosma",
+            "category": "🥘 Quyuq ovqatlar",
+            "description": "",
+            "price": 30000,
+            "is_active": 1,
+            "emoji": "🍗",
+            "image": ""
+        },
+        {
+            "id": 22,
+            "name": "Dumba bosma",
+            "category": "🥘 Quyuq ovqatlar",
+            "description": "",
+            "price": 30000,
+            "is_active": 1,
+            "emoji": "🥖",
+            "image": ""
+        },
+        {
+            "id": 23,
+            "name": "Qovurma lag'mon",
+            "category": "🥘 Quyuq ovqatlar",
+            "description": "",
+            "price": 35000,
+            "is_active": 1,
+            "emoji": "🍜",
+            "image": ""
+        },
+        {
+            "id": 24,
+            "name": "Grechka osh",
+            "category": "🥘 Quyuq ovqatlar",
+            "description": "",
+            "price": 30000,
+            "is_active": 1,
+            "emoji": "🍚",
+            "image": ""
+        },
+        {
+            "id": 25,
+            "name": "Po-fransuzskiy",
+            "category": "🥘 Quyuq ovqatlar",
+            "description": "",
+            "price": 25000,
+            "is_active": 1,
+            "emoji": "🍽",
+            "image": ""
+        },
+        {
+            "id": 26,
+            "name": "Qozon makaron",
+            "category": "🥘 Quyuq ovqatlar",
+            "description": "07",
+            "price": 15000,
+            "is_active": 1,
+            "emoji": "🍝",
+            "image": ""
+        },
+        {
+            "id": 27,
+            "name": "Tovuq bifstroganov",
+            "category": "🥘 Quyuq ovqatlar",
+            "description": "",
+            "price": 25000,
+            "is_active": 1,
+            "emoji": "🍗",
+            "image": ""
+        },
+        {
+            "id": 28,
+            "name": "Gril",
+            "category": "🥘 Quyuq ovqatlar",
+            "description": "",
+            "price": 70000,
+            "is_active": 1,
+            "emoji": "🍖",
+            "image": ""
+        },
+        {
+            "id": 29,
+            "name": "Dumba shashlik",
+            "category": "🥘 Quyuq ovqatlar",
+            "description": "",
+            "price": 28000,
+            "is_active": 1,
+            "emoji": "🥭",
+            "image": ""
+        },
+        {
+            "id": 30,
+            "name": "Mol go'shtli shashlik",
+            "category": "🥘 Quyuq ovqatlar",
+            "description": "",
+            "price": 25000,
+            "is_active": 1,
+            "emoji": "🥭",
+            "image": ""
+        },
+        {
+            "id": 31,
+            "name": "Noxat",
+            "category": "🥘 Quyuq ovqatlar",
+            "description": "",
+            "price": 0,
+            "is_active": 1,
+            "emoji": "🟡",
+            "image": ""
+        },
+        {
+            "id": 32,
+            "name": "Mol go'shtli somsa",
+            "category": "🥪 Somsalar",
+            "description": "",
+            "price": 12000,
+            "is_active": 1,
+            "emoji": "🥪",
+            "image": ""
+        },
+        {
+            "id": 33,
+            "name": "Ko'k somsa",
+            "category": "🥪 Somsalar",
+            "description": "",
+            "price": 6000,
+            "is_active": 1,
+            "emoji": "🥪",
+            "image": ""
+        },
+        {
+            "id": 34,
+            "name": "Oshqovoq somsa",
+            "category": "🥪 Somsalar",
+            "description": "",
+            "price": 6000,
+            "is_active": 1,
+            "emoji": "🥪",
+            "image": ""
+        },
+        {
+            "id": 35,
+            "name": "Jiz somsa",
+            "category": "🥪 Somsalar",
+            "description": "",
+            "price": 7000,
+            "is_active": 1,
+            "emoji": "🥪",
+            "image": ""
+        },
+        {
+            "id": 36,
+            "name": "Tandir somsa",
+            "category": "🥪 Somsalar",
+            "description": "",
+            "price": 12000,
+            "is_active": 1,
+            "emoji": "🥪",
+            "image": ""
+        },
+        {
+            "id": 37,
+            "name": "Kabob",
+            "category": "🥪 Somsalar",
+            "description": "",
+            "price": 20000,
+            "is_active": 1,
+            "emoji": "🥭",
+            "image": ""
+        }
+    ],
+    "orders": [
+        {
+            "id": 1,
+            "user_id": 7752032178,
+            "total_price": 300,
+            "location": "40.66629,72.256562",
+            "phone": "998940898119",
+            "status": "Qabul qilindi va tayyorlanmoqda",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "osh",
+                    "price": 100,
+                    "quantity": 3
+                }
+            ],
+            "order_type": "Masofaviy",
+            "room_table": "Yo'q",
+            "comment": "Нет",
+            "courier_id": null,
+            "created_at": "26.06.2026 12:44"
+        },
+        {
+            "id": 2,
+            "user_id": 7752032178,
+            "total_price": 400,
+            "location": "40.666056,72.25638",
+            "phone": "998940898119",
+            "status": "Yangi",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "osh",
+                    "price": 100,
+                    "quantity": 4
+                }
+            ],
+            "order_type": "Masofaviy",
+            "room_table": "Yo'q",
+            "comment": "Нет",
+            "courier_id": null,
+            "created_at": "27.06.2026 15:23"
+        },
+        {
+            "id": 3,
+            "user_id": 7752032178,
+            "total_price": 400,
+            "location": "Kiritilmagan",
+            "phone": "+998940898119",
+            "status": "Qabul qilindi va tayyorlanmoqda",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "osh",
+                    "price": 100,
+                    "quantity": 4
+                }
+            ],
+            "order_type": "Masofaviy",
+            "room_table": "Yo'q",
+            "comment": "Yo'q",
+            "courier_id": null,
+            "created_at": "27.06.2026 15:31"
+        },
+        {
+            "id": 4,
+            "user_id": 7752032178,
+            "total_price": 700,
+            "location": "Kiritilmagan",
+            "phone": "+998940898119",
+            "status": "Yangi",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "osh",
+                    "price": 100,
+                    "quantity": 7
+                }
+            ],
+            "order_type": "Masofaviy",
+            "room_table": "Yo'q",
+            "comment": "Yo'q",
+            "courier_id": null,
+            "created_at": "27.06.2026 15:35"
+        },
+        {
+            "id": 5,
+            "user_id": 7752032178,
+            "total_price": 4545,
+            "location": "40.666104,72.256578",
+            "phone": "998940898119",
+            "status": "Qabul qilindi va tayyorlanmoqda",
+            "items": [
+                {
+                    "id": 4,
+                    "name": "oshj",
+                    "price": 4545,
+                    "quantity": 1
+                }
+            ],
+            "order_type": "Masofaviy",
+            "room_table": "Yo'q",
+            "comment": "Ug",
+            "courier_id": null,
+            "created_at": "27.06.2026 16:16"
+        },
+        {
+            "id": 6,
+            "user_id": 7752032178,
+            "total_price": 13635,
+            "location": "Kiritilmagan",
+            "phone": "+998940898119",
+            "status": "Qabul qilindi va tayyorlanmoqda",
+            "items": [
+                {
+                    "id": 4,
+                    "name": "oshj",
+                    "price": 4545,
+                    "quantity": 3
+                }
+            ],
+            "order_type": "Masofaviy",
+            "room_table": "Yo'q",
+            "comment": "Yo'q",
+            "courier_id": null,
+            "created_at": "27.06.2026 18:22"
+        },
+        {
+            "id": 7,
+            "user_id": 7752032178,
+            "total_price": 27270,
+            "location": "Kiritilmagan",
+            "phone": "+998940898119",
+            "status": "Qabul qilindi va tayyorlanmoqda",
+            "items": [
+                {
+                    "id": 4,
+                    "name": "oshj",
+                    "price": 4545,
+                    "quantity": 6
+                }
+            ],
+            "order_type": "Masofaviy",
+            "room_table": "Yo'q",
+            "comment": "Yo'q",
+            "courier_id": null,
+            "created_at": "28.06.2026 10:00"
+        },
+        {
+            "id": 8,
+            "user_id": 7752032178,
+            "total_price": 18380,
+            "location": "40.666064,72.256314",
+            "phone": "998940898119",
+            "status": "Yangi",
+            "items": [
+                {
+                    "id": 4,
+                    "name": "oshj",
+                    "price": 4545,
+                    "quantity": 4
+                },
+                {
+                    "id": 5,
+                    "name": "nn",
+                    "price": 40,
+                    "quantity": 5
+                }
+            ],
+            "order_type": "Masofaviy",
+            "room_table": "Yo'q",
+            "comment": "Yo'q",
+            "courier_id": null,
+            "created_at": "28.06.2026 10:02"
+        },
+        {
+            "id": 9,
+            "user_id": 7752032178,
+            "total_price": 9170,
+            "location": "Yo'q",
+            "phone": "+998940898119",
+            "status": "Qabul qilindi va tayyorlanmoqda",
+            "items": [
+                {
+                    "id": 4,
+                    "name": "oshj",
+                    "price": 4545,
+                    "quantity": 2
+                },
+                {
+                    "id": 5,
+                    "name": "nn",
+                    "price": 40,
+                    "quantity": 2
+                }
+            ],
+            "order_type": "Xona",
+            "room_table": "1",
+            "comment": "Yo'q",
+            "courier_id": null,
+            "created_at": "13.08.2026 05:42"
+        },
+        {
+            "id": 10,
+            "user_id": 7752032178,
+            "total_price": 4585,
+            "location": "Yo'q",
+            "phone": "+998940898119",
+            "status": "Bekor qilingan",
+            "items": [
+                {
+                    "id": 4,
+                    "name": "oshj",
+                    "price": 4545,
+                    "quantity": 1
+                },
+                {
+                    "id": 5,
+                    "name": "nn",
+                    "price": 40,
+                    "quantity": 1
+                }
+            ],
+            "order_type": "Kafe",
+            "room_table": "5",
+            "comment": "Yo'q",
+            "courier_id": null,
+            "created_at": "13.08.2026 05:43"
+        },
+        {
+            "id": 11,
+            "user_id": 7752032178,
+            "total_price": 94,
+            "location": "Kiritilmagan",
+            "phone": "+998940898119",
+            "status": "Qabul qilindi va tayyorlanmoqda",
+            "items": [
+                {
+                    "id": 5,
+                    "name": "nn",
+                    "price": 47,
+                    "quantity": 2
+                }
+            ],
+            "order_type": "Masofaviy",
+            "room_table": "Yo'q",
+            "comment": "Yo'q",
+            "courier_id": null,
+            "created_at": "13.08.2026 05:51"
+        }
+    ],
+    "carts": {},
+    "admins": [
+        8135353129
+    ],
+    "couriers": [
+        {
+            "id": 1,
+            "telegram_id": 7032024055,
+            "fullname": "sardor",
+            "phone": "+998934152360",
+            "registered_at": "2026-06-26 12:45"
+        }
+    ],
+    "admin_contact": {
+        "name": "Fast Food Admin",
+        "phone": "+998 90 123 45 67",
+        "username": "@admin"
+    },
+    "categories": [
+        "🍔 Burgerlar",
+        "🌯 Lavashlar",
+        "🥤 Ichimliklar",
+        "🍟 Sneklar",
+        "🍰 Shirinliklar",
+        "osh",
+        "🍲 Suyuq ovqatlar",
+        "🥘 Quyuq ovqatlar",
+        "🥪 Somsalar"
+    ],
+    "admin_accounts": [
+        {
+            "login": "opetitto 33",
+            "password": "opetitto 34",
+            "name": "Asosiy Admin"
+        }
+    ],
+    "admin_sessions": {}
+}

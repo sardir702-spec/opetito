@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Food Market</title>
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <div class="banner">
+            <div class="pattern-overlay"></div>
+            <h2 id="banner_title">🔥 Olovli Ta'm</h2>
+            <p id="banner_subtitle">Siz izlagan maza va sifat!</p>
+            <div class="leaf leaf-1">🌿</div>
+            <div class="leaf leaf-2">🍃</div>
+        </div>
+
+        <div class="search-container" style="padding: 0 20px; margin-bottom: 15px;">
+            <input type="text" id="searchInput" placeholder="Mahsulot qidirish..." oninput="searchProducts()" style="width: 100%; padding: 12px 15px; border-radius: 12px; border: 1px solid #ddd; outline: none; font-family: 'Outfit'; font-size: 15px; box-sizing: border-box; box-shadow: 0 4px 10px rgba(0,0,0,0.03);">
+        </div>
+
+        <div class="category-tabs" id="category-tabs">
+            <!-- Tabs dynamically generated here -->
+        </div>
+
+        <div class="products" id="products">
+            <!-- JS orqali joylanadi -->
+        </div>
+
+        <div class="footer">
+            <div class="social">
+                <i class="fa-brands fa-instagram"></i> @foodmarket_bot
+            </div>
+            <div class="admin-btn" onclick="window.location.href = 'https://t.me/snovb_bot'" id="contact_admin_btn">
+                <i class="fa-solid fa-shield-halved"></i> Admin bilan aloqa
+            </div>
+        </div>
+    </div>
+
+    <!-- Web Checkout Bar -->
+    <div id="web-checkout-bar" class="web-checkout-bar" style="display: none;">
+        <button id="web-checkout-btn" class="web-checkout-btn"></button>
+    </div>
+
+    <!-- Image Modal -->
+    <div id="image-modal" class="image-modal" onclick="closeModal()">
+        <span class="close-modal">&times;</span>
+        <img class="modal-content" id="zoomed-img" onclick="event.stopPropagation()">
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

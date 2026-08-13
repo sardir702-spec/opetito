@@ -1,0 +1,345 @@
+{
+    "categories": [
+        "🍔 Burgerlar",
+        "🌯 Lavashlar",
+        "🥤 Ichimliklar",
+        "🍟 Sneklar",
+        "🍰 Shirinliklar",
+        "osh",
+        "🍲 Suyuq ovqatlar",
+        "🥘 Quyuq ovqatlar",
+        "🥪 Somsalar"
+    ],
+    "products": [
+        {
+            "id": 5,
+            "name": "nn",
+            "category": "osh",
+            "description": "uouoiuoiuo",
+            "price": 47,
+            "is_active": 1,
+            "emoji": "🍽",
+            "image": "images/AgACAgIAAxkBAAID42p9FPk5ZfaLnkL6HdKnstjoLHGZAAJBIGsbyy7pS7gO--zgRmagAQADAgADeQADPQQ.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Kasha",
+            "category": "🍲 Suyuq ovqatlar",
+            "description": "1n",
+            "price": 10000,
+            "is_active": 1,
+            "emoji": "🍲",
+            "image": "images/AgACAgIAAxkBAAIEPWp9IYEj_AvVzt7Ggd103RbIDCVkAAJeIGsbyy7pSxeik75f4f1UAQADAgADeQADPQQ.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Shir guruch",
+            "category": "🍲 Suyuq ovqatlar",
+            "description": "",
+            "price": 10000,
+            "is_active": 1,
+            "emoji": "🍲",
+            "image": ""
+        },
+        {
+            "id": 8,
+            "name": "Lag'mon",
+            "category": "🍲 Suyuq ovqatlar",
+            "description": "",
+            "price": 22000,
+            "is_active": 1,
+            "emoji": "🍜",
+            "image": ""
+        },
+        {
+            "id": 9,
+            "name": "Chuchvara",
+            "category": "🍲 Suyuq ovqatlar",
+            "description": "",
+            "price": 22000,
+            "is_active": 1,
+            "emoji": "🥟",
+            "image": ""
+        },
+        {
+            "id": 10,
+            "name": "Kuza",
+            "category": "🍲 Suyuq ovqatlar",
+            "description": "",
+            "price": 20000,
+            "is_active": 1,
+            "emoji": "🍲",
+            "image": ""
+        },
+        {
+            "id": 11,
+            "name": "Mastava",
+            "category": "🍲 Suyuq ovqatlar",
+            "description": "",
+            "price": 20000,
+            "is_active": 1,
+            "emoji": "🍲",
+            "image": ""
+        },
+        {
+            "id": 12,
+            "name": "Borsh",
+            "category": "🍲 Suyuq ovqatlar",
+            "description": "",
+            "price": 22000,
+            "is_active": 1,
+            "emoji": "🍲",
+            "image": ""
+        },
+        {
+            "id": 13,
+            "name": "Mol go'shtli sho'rva",
+            "category": "🍲 Suyuq ovqatlar",
+            "description": "",
+            "price": 23000,
+            "is_active": 1,
+            "emoji": "🍲",
+            "image": ""
+        },
+        {
+            "id": 14,
+            "name": "Dumba sho'rva",
+            "category": "🍲 Suyuq ovqatlar",
+            "description": "",
+            "price": 23000,
+            "is_active": 1,
+            "emoji": "🍲",
+            "image": ""
+        },
+        {
+            "id": 15,
+            "name": "Tovuq sho'rva",
+            "category": "🍲 Suyuq ovqatlar",
+            "description": "",
+            "price": 20000,
+            "is_active": 1,
+            "emoji": "🍲",
+            "image": ""
+        },
+        {
+            "id": 16,
+            "name": "Vaju",
+            "category": "🍲 Suyuq ovqatlar",
+            "description": "",
+            "price": 20000,
+            "is_active": 1,
+            "emoji": "🍲",
+            "image": ""
+        },
+        {
+            "id": 17,
+            "name": "Manti sho'rva",
+            "category": "🍲 Suyuq ovqatlar",
+            "description": "",
+            "price": 0,
+            "is_active": 1,
+            "emoji": "🥟",
+            "image": ""
+        },
+        {
+            "id": 18,
+            "name": "Perelovka",
+            "category": "🍲 Suyuq ovqatlar",
+            "description": "",
+            "price": 22000,
+            "is_active": 1,
+            "emoji": "🍲",
+            "image": ""
+        },
+        {
+            "id": 19,
+            "name": "Bifstroganov",
+            "category": "🥘 Quyuq ovqatlar",
+            "description": "",
+            "price": 45000,
+            "is_active": 1,
+            "emoji": "🥖",
+            "image": "images/AgACAgIAAxkBAAIEPWp9IYEj_AvVzt7Ggd103RbIDCVkAAJeIGsbyy7pSxeik75f4f1UAQADAgADeQADPQQ.jpg"
+        },
+        {
+            "id": 20,
+            "name": "Bifshteks",
+            "category": "🥘 Quyuq ovqatlar",
+            "description": "",
+            "price": 28000,
+            "is_active": 1,
+            "emoji": "🥩",
+            "image": ""
+        },
+        {
+            "id": 21,
+            "name": "Tovuq bosma",
+            "category": "🥘 Quyuq ovqatlar",
+            "description": "",
+            "price": 30000,
+            "is_active": 1,
+            "emoji": "🍗",
+            "image": ""
+        },
+        {
+            "id": 22,
+            "name": "Dumba bosma",
+            "category": "🥘 Quyuq ovqatlar",
+            "description": "",
+            "price": 30000,
+            "is_active": 1,
+            "emoji": "🥖",
+            "image": ""
+        },
+        {
+            "id": 23,
+            "name": "Qovurma lag'mon",
+            "category": "🥘 Quyuq ovqatlar",
+            "description": "",
+            "price": 35000,
+            "is_active": 1,
+            "emoji": "🍜",
+            "image": ""
+        },
+        {
+            "id": 24,
+            "name": "Grechka osh",
+            "category": "🥘 Quyuq ovqatlar",
+            "description": "",
+            "price": 30000,
+            "is_active": 1,
+            "emoji": "🍚",
+            "image": ""
+        },
+        {
+            "id": 25,
+            "name": "Po-fransuzskiy",
+            "category": "🥘 Quyuq ovqatlar",
+            "description": "",
+            "price": 25000,
+            "is_active": 1,
+            "emoji": "🍽",
+            "image": ""
+        },
+        {
+            "id": 26,
+            "name": "Qozon makaron",
+            "category": "🥘 Quyuq ovqatlar",
+            "description": "07",
+            "price": 15000,
+            "is_active": 1,
+            "emoji": "🍝",
+            "image": ""
+        },
+        {
+            "id": 27,
+            "name": "Tovuq bifstroganov",
+            "category": "🥘 Quyuq ovqatlar",
+            "description": "",
+            "price": 25000,
+            "is_active": 1,
+            "emoji": "🍗",
+            "image": ""
+        },
+        {
+            "id": 28,
+            "name": "Gril",
+            "category": "🥘 Quyuq ovqatlar",
+            "description": "",
+            "price": 70000,
+            "is_active": 1,
+            "emoji": "🍖",
+            "image": ""
+        },
+        {
+            "id": 29,
+            "name": "Dumba shashlik",
+            "category": "🥘 Quyuq ovqatlar",
+            "description": "",
+            "price": 28000,
+            "is_active": 1,
+            "emoji": "🥭",
+            "image": ""
+        },
+        {
+            "id": 30,
+            "name": "Mol go'shtli shashlik",
+            "category": "🥘 Quyuq ovqatlar",
+            "description": "",
+            "price": 25000,
+            "is_active": 1,
+            "emoji": "🥭",
+            "image": ""
+        },
+        {
+            "id": 31,
+            "name": "Noxat",
+            "category": "🥘 Quyuq ovqatlar",
+            "description": "",
+            "price": 0,
+            "is_active": 1,
+            "emoji": "🟡",
+            "image": ""
+        },
+        {
+            "id": 32,
+            "name": "Mol go'shtli somsa",
+            "category": "🥪 Somsalar",
+            "description": "",
+            "price": 12000,
+            "is_active": 1,
+            "emoji": "🥪",
+            "image": ""
+        },
+        {
+            "id": 33,
+            "name": "Ko'k somsa",
+            "category": "🥪 Somsalar",
+            "description": "",
+            "price": 6000,
+            "is_active": 1,
+            "emoji": "🥪",
+            "image": ""
+        },
+        {
+            "id": 34,
+            "name": "Oshqovoq somsa",
+            "category": "🥪 Somsalar",
+            "description": "",
+            "price": 6000,
+            "is_active": 1,
+            "emoji": "🥪",
+            "image": ""
+        },
+        {
+            "id": 35,
+            "name": "Jiz somsa",
+            "category": "🥪 Somsalar",
+            "description": "",
+            "price": 7000,
+            "is_active": 1,
+            "emoji": "🥪",
+            "image": ""
+        },
+        {
+            "id": 36,
+            "name": "Tandir somsa",
+            "category": "🥪 Somsalar",
+            "description": "",
+            "price": 12000,
+            "is_active": 1,
+            "emoji": "🥪",
+            "image": ""
+        },
+        {
+            "id": 37,
+            "name": "Kabob",
+            "category": "🥪 Somsalar",
+            "description": "",
+            "price": 20000,
+            "is_active": 1,
+            "emoji": "🥭",
+            "image": ""
+        }
+    ]
+}
